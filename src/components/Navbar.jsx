@@ -28,7 +28,7 @@ function Navbarx() {
         className="NavBar"
         position="static"
         sx={{
-          backgroundColor: "#1A1E1C",
+          backgroundColor: "#002228",
           color: "white",
           maxWidth: "1400px",
           marginX: "auto",

@@ -2,7 +2,7 @@ import React from 'react'
 
 function Hero() {
   return (
-    <section>
+    <section className='bg-[url(Imgf.png)] text-white' >
       
     </section>
   )
