@@ -4,8 +4,8 @@ import TaskAltIcon from "@mui/icons-material/TaskAlt";
 
 function Train() {
   return (
-    <section className="bg-[#002228]">
-      <div className="bg-[url(Frame2.png)] bg-no-repeat bg-cover text-white max-w-[1400px]  mx-auto py-28  flex justify-center items-center ">
+    <section className="bg-[#002228] px-5">
+      <div className="bg-[url(Frame2.png)] bg-no-repeat rounded-4xl bg-cover text-white max-w-[1400px]  mx-auto py-28  flex justify-center items-center ">
         <div className=" space-y-10 px-5 ">
           <div>
             <h3 className="text-[40px] font-bold">

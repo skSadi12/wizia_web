@@ -7,6 +7,7 @@ import Partners from './components/partners'
 import Aidr from './components/Aidr'
 import Train from './components/Train'
 import Slider from './components/Slider'
+import Effort from './components/Effort'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,7 @@ function App() {
       <Aidr/>
       <Train/>
       <Slider/>
+      <Effort/>
     </>
   )
 }
