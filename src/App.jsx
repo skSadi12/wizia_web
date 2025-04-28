@@ -4,6 +4,7 @@ import './App.css'
 import Navbarx from './components/Navbar'
 import Hero from './components/Hero'
 import Partners from './components/partners'
+import Aidr from './components/Aidr'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -13,6 +14,7 @@ function App() {
       <Navbarx/>
       <Hero/>
       <Partners/>
+      <Aidr/>
     </>
   )
 }
