@@ -9,6 +9,7 @@ import Train from './components/Train'
 import Slider from './components/Slider'
 import Effort from './components/Effort'
 import Outbound from './components/Outbound'
+import Footer from './components/Footer'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -23,6 +24,7 @@ function App() {
       <Slider/>
       <Effort/>
       <Outbound/>
+      <Footer/>
     </>
   )
 }
