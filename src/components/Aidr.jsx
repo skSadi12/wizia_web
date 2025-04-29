@@ -5,7 +5,7 @@ import pic3 from '/ph3.png'
 
 function Aidr() {
   return (
-    <section className='bg-[#002228]'>
+    <section className='bg-[#002228] mt-[-1px]'>
       <div className='mx-5'>
       <div className='max-w-[1400px] mx-auto flex py-16 px-5 flex-col md:flex-row gap-16  '>
         <div className='space-y-3  w-full md:w-1/3'>

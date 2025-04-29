@@ -38,7 +38,7 @@ function Slider() {
   const { heading,pg,description } = slider[currentIndex];
 
   return (
-    <section className="bg-[#002228]">
+    <section className="bg-[#002228] mt-[-1px]">
       <div className="max-w-[1400px] mx-auto px-6 md:py-28 text-white py-10">
         <div className="flex  items-center justify-between gap-10">
           <button

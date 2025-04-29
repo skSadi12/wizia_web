@@ -2,7 +2,7 @@ import React from "react";
 import OpenInNewIcon from '@mui/icons-material/OpenInNew';
 function Hero() {
   return (
-    <section className="bg-[url(Imgf.png)]  text-white w-full bg-bottom-right bg-no-repeat md:bg-cover">
+    <section className="bg-[url(/Imgf.png)]  text-white w-full bg-bottom-right bg-no-repeat md:bg-cover">
       <div className="max-w-[1400px] mx-auto">
         <div className="max-w-[500px] md:space-y-12 space-y-4 py-16 px-5" >
           <h3 className="text-[#0FF1F6] text-[24px]">AI SDRs (aiDRs)</h3>

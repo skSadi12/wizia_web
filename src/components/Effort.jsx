@@ -3,7 +3,7 @@ import React from "react";
 function Effort() {
   return (
     <section className=" bg-[#002228] text-white px-5">
-      <div className="bg-[url(Frame3.png)] max-w-[1400px]  mx-auto w-full bg-bottom-right bg-no-repeat bg-cover rounded-4xl mt-[-2px] ">
+      <div className="bg-[url(/Frame3.png)] max-w-[1400px]  mx-auto w-full bg-bottom-right bg-no-repeat bg-cover rounded-4xl mt-[-2px] ">
         <div className="">
           <div className="max-w-[700px] md:space-y-8 space-y-4 py-16 px-5">
             <h3 className="text-[#FFFFFF] text-[32px]">
